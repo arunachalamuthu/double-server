@@ -1,0 +1,9 @@
+GET http://localhost:3005/
+####
+
+PATCH    http://localhost:3005/muthu
+Content-Type: application/json
+
+{
+  "password":"muthu"
+}
