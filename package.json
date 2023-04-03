@@ -7,8 +7,7 @@
     "nodemon": "^2.0.21"
   },
   "scripts": {
-    "start": "nodemon server.js",
-    "poststart":"nodemon server2.js"
+    "start": "nodemon server.js"
   },
   "name": "server",
   "version": "1.0.0",
